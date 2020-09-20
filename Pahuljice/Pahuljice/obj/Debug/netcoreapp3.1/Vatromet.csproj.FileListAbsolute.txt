@@ -1,0 +1,15 @@
+C:\Users\aleks\OneDrive\Radna površina\Aca\Vatromet\Vatromet\bin\Debug\netcoreapp3.1\Vatromet.exe
+C:\Users\aleks\OneDrive\Radna površina\Aca\Vatromet\Vatromet\bin\Debug\netcoreapp3.1\Vatromet.deps.json
+C:\Users\aleks\OneDrive\Radna površina\Aca\Vatromet\Vatromet\bin\Debug\netcoreapp3.1\Vatromet.runtimeconfig.json
+C:\Users\aleks\OneDrive\Radna površina\Aca\Vatromet\Vatromet\bin\Debug\netcoreapp3.1\Vatromet.runtimeconfig.dev.json
+C:\Users\aleks\OneDrive\Radna površina\Aca\Vatromet\Vatromet\bin\Debug\netcoreapp3.1\Vatromet.dll
+C:\Users\aleks\OneDrive\Radna površina\Aca\Vatromet\Vatromet\bin\Debug\netcoreapp3.1\Vatromet.pdb
+C:\Users\aleks\OneDrive\Radna površina\Aca\Vatromet\Vatromet\obj\Debug\netcoreapp3.1\Vatromet.csprojAssemblyReference.cache
+C:\Users\aleks\OneDrive\Radna površina\Aca\Vatromet\Vatromet\obj\Debug\netcoreapp3.1\Vatromet.Form1.resources
+C:\Users\aleks\OneDrive\Radna površina\Aca\Vatromet\Vatromet\obj\Debug\netcoreapp3.1\Vatromet.csproj.GenerateResource.cache
+C:\Users\aleks\OneDrive\Radna površina\Aca\Vatromet\Vatromet\obj\Debug\netcoreapp3.1\Vatromet.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Radna površina\Aca\Vatromet\Vatromet\obj\Debug\netcoreapp3.1\Vatromet.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Radna površina\Aca\Vatromet\Vatromet\obj\Debug\netcoreapp3.1\Vatromet.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Radna površina\Aca\Vatromet\Vatromet\obj\Debug\netcoreapp3.1\Vatromet.dll
+C:\Users\aleks\OneDrive\Radna površina\Aca\Vatromet\Vatromet\obj\Debug\netcoreapp3.1\Vatromet.pdb
+C:\Users\aleks\OneDrive\Radna površina\Aca\Vatromet\Vatromet\obj\Debug\netcoreapp3.1\Vatromet.genruntimeconfig.cache
